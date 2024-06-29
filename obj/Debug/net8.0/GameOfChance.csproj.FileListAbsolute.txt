@@ -1,0 +1,14 @@
+C:\Users\paulo\Downloads\Willian\GameOfChance\GameOfChance\obj\Debug\net8.0\GameOfChance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\Downloads\Willian\GameOfChance\GameOfChance\obj\Debug\net8.0\GameOfChance.AssemblyInfoInputs.cache
+C:\Users\paulo\Downloads\Willian\GameOfChance\GameOfChance\obj\Debug\net8.0\GameOfChance.AssemblyInfo.cs
+C:\Users\paulo\Downloads\Willian\GameOfChance\GameOfChance\obj\Debug\net8.0\GameOfChance.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Downloads\Willian\GameOfChance\GameOfChance\bin\Debug\net8.0\GameOfChance.exe
+C:\Users\paulo\Downloads\Willian\GameOfChance\GameOfChance\bin\Debug\net8.0\GameOfChance.deps.json
+C:\Users\paulo\Downloads\Willian\GameOfChance\GameOfChance\bin\Debug\net8.0\GameOfChance.runtimeconfig.json
+C:\Users\paulo\Downloads\Willian\GameOfChance\GameOfChance\bin\Debug\net8.0\GameOfChance.dll
+C:\Users\paulo\Downloads\Willian\GameOfChance\GameOfChance\bin\Debug\net8.0\GameOfChance.pdb
+C:\Users\paulo\Downloads\Willian\GameOfChance\GameOfChance\obj\Debug\net8.0\GameOfChance.dll
+C:\Users\paulo\Downloads\Willian\GameOfChance\GameOfChance\obj\Debug\net8.0\refint\GameOfChance.dll
+C:\Users\paulo\Downloads\Willian\GameOfChance\GameOfChance\obj\Debug\net8.0\GameOfChance.pdb
+C:\Users\paulo\Downloads\Willian\GameOfChance\GameOfChance\obj\Debug\net8.0\GameOfChance.genruntimeconfig.cache
+C:\Users\paulo\Downloads\Willian\GameOfChance\GameOfChance\obj\Debug\net8.0\ref\GameOfChance.dll
